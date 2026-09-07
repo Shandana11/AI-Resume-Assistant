@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 
 
 def get_api_key():
